@@ -1,4 +1,7 @@
 # References
 
-* octocat 1 😈
-* octocat 2 😼
+* Octocat 1 😈
+* Octocat 2 😼
+* Wolf 🐺
+* Dragon 🐲
+* Tiger 🐯
